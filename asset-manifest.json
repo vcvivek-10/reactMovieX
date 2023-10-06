@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactMovieX/static/css/main.b6699339.css",
+    "main.js": "/reactMovieX/static/js/main.2172739c.js",
+    "static/media/no-poster.png": "/reactMovieX/static/media/no-poster.de8cb0a7786e6bf2b2de.png",
+    "static/media/avatar.png": "/reactMovieX/static/media/avatar.0affc1eeb2b145c80bd1.png",
+    "static/media/movix-logo.svg": "/reactMovieX/static/media/movix-logo.9d67d13c155c38743f313bd4784d0c7b.svg",
+    "index.html": "/reactMovieX/index.html",
+    "main.b6699339.css.map": "/reactMovieX/static/css/main.b6699339.css.map",
+    "main.2172739c.js.map": "/reactMovieX/static/js/main.2172739c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6699339.css",
+    "static/js/main.2172739c.js"
+  ]
+}
